@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=으아아아!!&fontSize=50&fontAlign=50&fontAlignY=40&desc=To%20My%20GitHub&descAlign=50&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ZAMISOLSOL&fontSize=50&fontAlign=50&fontAlignY=40&desc=To%20My%20GitHub&descAlign=50&descAlignY=60)
 
 ## 👋 About Me
 - 🎓 **Who am I?**: A passionate developer who loves building creative and impactful projects.
