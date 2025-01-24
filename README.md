@@ -18,7 +18,7 @@
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=hsmai&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="hsmai" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=hsmai&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="zamisolsol" /></p>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
