@@ -1,4 +1,4 @@
-# JAMISOLSOL's Profile 🚀
+# JAMISOLSOL | 김솔 
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50&fontAlign=50&fontAlignY=40&desc=To%20My%20GitHub&descAlign=50&descAlignY=60)
 
