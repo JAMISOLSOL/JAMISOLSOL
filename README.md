@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ZAMISOLSOL&fontSize=50&fontAlign=50&fontAlignY=40&desc=kim%20sol&descAlign=50&descAlignY=60)
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 ## About Me
 
