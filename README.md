@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="80%" alt="Hello, I'm ZAMISOLSOL!" src="./assets/profile-header.png" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ZAMISOLSOL&fontSize=50&fontAlign=50&fontAlignY=40&desc=kim%20sol&descAlign=50&descAlignY=60)
+
 
 
 ## About Me
