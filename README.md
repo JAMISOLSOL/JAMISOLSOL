@@ -20,7 +20,7 @@
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=zamisolsol&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0099FF&text_color=333333&icon_color=0099FF&include_all_commits=false&count_private=false" alt="zamisolsol" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=zamisolsol&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=007BFF&text_color=333333&icon_color=007BFF&ring_color=007BFF&include_all_commits=false&count_private=false" alt="zamisolsol" /></p>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
