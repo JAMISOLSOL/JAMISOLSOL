@@ -1,11 +1,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ZAMISOLSOL&fontSize=50&fontAlign=50&fontAlignY=40&desc=kim%20sol&descAlign=50&descAlignY=60)
 
 
-
 ## About Me
 
 <a href="https://www.instagram.com/sol6010?igsh=MXQwNWY1ZWtqcmx1eA%3D%3D&utm_source=qr" target="_blank">
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="📷 개인 인스타 (@sol6010)"/> </a>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/> 
+</a> - 📷 **개인 인스타** (@sol6010)
 
 ## Tools
 
