@@ -4,9 +4,16 @@
 
 ## About Me
 
-<a href="https://www.instagram.com/sol6010" target="_blank">
-  <img width="24" height="24" src="https://img.icons8.com/fluency/48/instagram-new.png"/>
-</a> **Daily**
+<table>
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/sol6010" target="_blank">
+        <img width="24" height="24" src="https://img.icons8.com/fluency/48/instagram-new.png"/>
+      </a>
+    </td>
+    <td>📷 **Daily**</td>
+  </tr>
+</table>
 
 
 ## tool
