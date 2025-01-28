@@ -4,12 +4,18 @@
 
 ## About Me
 
-<span>
-  <a href="https://www.instagram.com/sol6010" target="_blank">
-    <img width="24" height="24" src="https://img.icons8.com/fluency/48/instagram-new.png"/>
-  </a>
-  <strong>Daily</strong>
-</span>
+<!-- 기존 인스타그램 아이콘 -->
+<a href="https://www.instagram.com/sol6010?igsh=MXQwNWY1ZWtqcmx1eA%3D%3D&utm_source=qr" target="_blank">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+</a>
+
+<!-- 글자만 따로 정렬 -->
+<table>
+  <tr>
+    <td>📷 **Daily**</td>
+  </tr>
+</table>
+
 
 
 ## tool
