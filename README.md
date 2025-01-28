@@ -3,13 +3,8 @@
 
 ## About Me
 
-- <a href="https://www.instagram.com/sol6010" target="_blank">
-  <img width="20" height="20" src="https://img.icons8.com/fluency/48/instagram-new.png"/>  
-  **개인 계정** (@sol6010)</a>  
-- <a href="https://www.instagram.com/sol_dev" target="_blank">
-  <img width="20" height="20" src="https://img.icons8.com/fluency/48/instagram-new.png"/>  
-  **개발 계정** (@sol_dev)</a>
-
+<a href="https://www.instagram.com/sol6010?igsh=MXQwNWY1ZWtqcmx1eA%3D%3D&utm_source=qr" target="_blank">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/> </a>
 ## Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyternotebook" width="40" height="40"/>
