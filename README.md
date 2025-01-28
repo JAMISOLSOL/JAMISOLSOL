@@ -4,13 +4,8 @@
 
 ## About Me
 
-<!-- 인스타그램 아이콘 + 텍스트를 한 줄에 정렬 -->
-<p>
-  <a href="https://www.instagram.com/sol6010?igsh=MXQwNWY1ZWtqcmx1eA%3D%3D&utm_source=qr" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
-  </a>
-  <strong>Daily</strong>
-</p>
+<a href="https://www.instagram.com/sol6010?igsh=MXQwNWY1ZWtqcmx1eA%3D%3D&utm_source=qr" target="_blank">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/> </a>
 
 
 ## tool
